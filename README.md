@@ -138,3 +138,20 @@ background: #E42A42;
 <p align="center">
 	<img src="SS\External selector.jpg" alt="">
 </p>
+
+12. membuat validasi css
+silahkan kunjungi website untuk validasi css
+<p align="center">
+	<img src="SS\validasi pertama css.jpg" alt="">
+</p>
+
+13. memilih file css untuk di validasi
+pilih file yang sudah di buat untuk validasi
+<p align="center">
+	<img src="SS\chosse file validasi css.jpg" alt="">
+</p>
+
+14. hasil validasi css
+<p align="center">
+	<img src="SS\validasi css.jpg" alt="">
+</p>
